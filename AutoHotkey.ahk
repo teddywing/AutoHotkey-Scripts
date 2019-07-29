@@ -29,3 +29,6 @@ return
 Send #6
 Send !fx
 return
+
+; Reload this script
+^#a::Reload

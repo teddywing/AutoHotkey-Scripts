@@ -28,6 +28,7 @@ return
 ^#n::
 Send #6
 Send !fx
+Send !{Tab}  ; Reactivate current application
 return
 
 ; Reload this script

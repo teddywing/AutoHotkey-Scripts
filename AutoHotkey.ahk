@@ -28,6 +28,7 @@ return
 ^#n::
 Send #6
 Send !fx
+Sleep, 200
 Send !{Tab}  ; Reactivate current application
 return
 

@@ -22,3 +22,8 @@ Send {Tab}
 Send {Space}
 Send ^{Tab}
 Send ^r
+
+; Exit Notepad when not active
+^#n::
+Send #6
+Send !fx

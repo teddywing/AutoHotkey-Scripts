@@ -34,7 +34,7 @@ return
 
 ; Remove the second file in the UFO Cached files list
 ^#c::
-Click, 660, 50
+Click, 630, 50
 Sleep, 1000
 Click, 300, 220, Relative
 return
